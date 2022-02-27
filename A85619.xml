@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great overthrovv given to the Kings forces in VVales, under the command of Sir Charles Kemish, and Kerne the Sheriffe: by Lieutenant Generall Laughorne, Colonell Morgan, and Sir Trever Williams; two thousand kild and taken. The enemy not above one hundred and forty left upon the rally; and all their armes and ammunition taken, bag and baggage; with the transaction of the whole businesse, from the first to the last. With a true relation of the taking of Cardiffe, and one Morgan a Jesuit, and all the particulars of the fight; and how Colonell Morgan hath got between the enemy and Ragland. With a letter from an eminent commander in Bristol, commanded to be printed and published. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85619</idno>
+            <idno type="STC">Wing G1742</idno>
+            <idno type="STC">Thomason E325_8</idno>
+            <idno type="STC">ESTC R200623</idno>
+            <idno type="EEBO-CITATION">99861323</idno>
+            <idno type="PROQUEST">99861323</idno>
+            <idno type="VID">113456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85619)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113456)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E325[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great overthrovv given to the Kings forces in VVales, under the command of Sir Charles Kemish, and Kerne the Sheriffe: by Lieutenant Generall Laughorne, Colonell Morgan, and Sir Trever Williams; two thousand kild and taken. The enemy not above one hundred and forty left upon the rally; and all their armes and ammunition taken, bag and baggage; with the transaction of the whole businesse, from the first to the last. With a true relation of the taking of Cardiffe, and one Morgan a Jesuit, and all the particulars of the fight; and how Colonell Morgan hath got between the enemy and Ragland. With a letter from an eminent commander in Bristol, commanded to be printed and published. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Matthew Walbancke,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>26 Feb. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing has publication year 1645[6]; Thomason catalogue lists under 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Wales --  Early works to 1800.</term>
+               <term>Cardiff (Wales) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113456:1" rendition="simple:additions"/>
+            <p>A great OVERTHROVV Given to the KINGS Forces in Wales, Under the Command of Sir <hi>Charles Kemiſh,</hi> and <hi>Kerne</hi> the Sheriffe: By Lieutenant Generall <hi>Laughorne,</hi> Colonell <hi>Morgan,</hi> and Sir <hi>Trever Williams;</hi> Two thouſand kild and taken.</p>
+            <p>The Enemy not above one hundred and forty left upon the Rally; And all their Armes and Am<g ref="char:EOLhyphen"/>munition taken, Bag and Baggage; with the tranſ<g ref="char:EOLhyphen"/>action of the whole buſineſſe, from the firſt to the laſt.</p>
+            <p>With a true Relation of the taking of <hi>Cardiffe,</hi> and one <hi>Morgan</hi> a Jeſuit, and all the particulars of the fight; and how Colonell <hi>Morgan</hi> hath got between the Enemy and <hi>Ragland.</hi>
+            </p>
+            <p>With a Letter from an eminent Commander in <hi>Briſtol,</hi> commanded to be printed and publiſhed.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Matthew Walbancke,</hi> 26 Feb. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="military_account">
+            <pb facs="tcp:113456:2"/>
+            <pb n="3" facs="tcp:113456:2"/>
+            <head>A perfect and full Relation of the Routing of Sir <hi>Charles Kemiſh,</hi> Colonell <hi>Carne</hi> the high Sheriffe, and the reſt of the Forces in Glamorganſhire, by Major Generall <hi>Langhorne,</hi> Sir <hi>Trever Williams,</hi> and Col. <hi>Morgan.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">C</seg>Olonell <hi>Morgan</hi> the Governour of Glouceſter hearing that the enemy about Ragland had done ſo many miſchiefes, and encreaſed ſo faſt; and having conſideration of the hard ſervice of Monmouth Gariſon, ſo invironed with the Enemy of all ſides, he ordered a Par<g ref="char:EOLhyphen"/>ty of two hundred foot, and one hundred Horſe to ſet up a Gariſon at Lenath, Sir <hi>Philip Jones</hi> his houſe, which is about three miles from Ragland; notice whereof being brought to Ragland, Sir <hi>Charles Kemiſh</hi> he ſent out Captaine <hi>Waſtman</hi> with a party of Horſe and Foot to obſtruct them from Gariſoning there, and the meane while others were ſent to Alarme Mon<g ref="char:EOLhyphen"/>mouth; but we having notice of their deſigne deterred the buſineſſe till a more fit opportunity. In the meane time the Enemy plundered the Country, and the Gorernour of Mon<g ref="char:EOLhyphen"/>mouth having lately eſcaped the danger of Trechery by diſ<g ref="char:EOLhyphen"/>covering the deſigne in due time, tooke the like care to prevent the like now, in caſe any ſhould be on foot, he cauſed the Pur<g ref="char:EOLhyphen"/>cullis to be let downe, and the Draw bridge to be pulled up; and the Country people on the borders of Brecknockſhire,
+<pb n="4" facs="tcp:113456:3"/> many of them were forced to ſhip away their goods, and make what ſpeed they could for Briſtoll, to preſerve themſelves and what they had; for the enemy carried away many well-affe<g ref="char:EOLhyphen"/>cted people Priſoner to Ragland, and the meane while <hi>Car<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> the high Sheriffe of Glamorganſhire revolting was as barba<g ref="char:EOLhyphen"/>rous in thoſe parts, plundering the Country, and forcing the inhabitants to ſerve him; and having poſſeſſed himſelfe of Cardiffe Towne, which was not ſtrong enough to oppoſe an Enemy, nor prepared for a Siege, yet the Caſtle was kept againſt them. For we had very honeſt, godly, and faithfull Officers there then, viz. the Governour, Colonell <hi>Prichard,</hi> Col. <hi>Leighton,</hi> ſometimes of Plimouth Rigiment, and others, who apprehending the danger in time that they were in, they ſto<g ref="char:EOLhyphen"/>red the Caſtle with what Proviſions and Ammunition they had, and many honeſt men had the beſt of their goods carried in thither; ſome went in perſon, and thither the Governour and our Forces belonging to that Gariſon retreated, with a reſolution to hold it out to the laſt man, rather then to yeeld to that Runnagado crew, to whom many Club-men was joyned, he having not Armes enough for them at firſt; but they ſent to England for both Armes and Ammunition, and other Officers, from whence was ſpeeded ſupply for him, and Sir <hi>Charles Kemiſh</hi> with a Party from thence marched to joyne with them; Major Generall <hi>Skippon</hi> ſpeeded them what releife could be by Sea, both of Salt, Coles, and other Pro<g ref="char:EOLhyphen"/>viſions, and he and Colonell <hi>Morgan</hi> raiſed what Forces they could, and ſent all the Saylers they could get, the Vice Ad<g ref="char:EOLhyphen"/>mirall, with other Ships aſſiſting herein; The meane while Major Generall <hi>Laughorne</hi> prepared all the Forces he could about the South-weſt of Wales, and drew off his men from Abarnſtwitch, all being laborious to relieve thoſe parts in time before the Enemy had reſted there, and were growne too ſtrong for us; Sir <hi>Trever Williams</hi> alſo drew up all the Forces he could make to aſſiſt in this ſo conſiderable a deſigne; which required the more haſte, becauſe we had certaine Intelligence that Sir <hi>Charles Kemiſh</hi> was joyned with them, and that they were of Horſe and Foot nigh three thouſand, and did daily
+<pb n="5" facs="tcp:113456:3"/> increaſe, and ſo were ſtill likely to did except we did ſpeedily diſſipate them.</p>
+            <p>On Munday the 16. of Feb. 1645. the Vice Admirall approached neere for giving notice to Colonell <hi>Pitchard</hi> of Re<g ref="char:EOLhyphen"/>liefe comming, and within ſight of the Caſtle hanged out their Colours, to let them know for whom they were, and for what purpoſe they came, and ſhot of firſt one Peece of Ordnance, and then another, and ſo ſixe Peeces were ſhot off to let them know in the Caſtle that Releife was then at hand; the ſight of which Ship, and hearing of which Peeces our men gave a great ſhout, and were very glad; Colonell <hi>Pitchard</hi> the Governour, Colonell <hi>Leighton</hi> and the reſt ſate in Counſell, and ordered ſtrict quarter, and encouraged the Souldiers to prepare for a ſtorme which they might feare, upon the enemies underſtanding that releife was comming; and withall put them in minde how farre God had already then preſerved them, encouraging them ſtill to truſt in that God who had ſo kept them, till he had perfected his Work, which they ho<g ref="char:EOLhyphen"/>ped would now ſuddenly be, being aſſured by thoſe ſhot made to give them notice that Releife was then at hand; and the Souldiers expreſſed much reſolution to the proſecution of the worke, crying out, they would never yeeld whilſt they were able to withſtand the Enemy, not doubting but to ſee them diſſipated. Their reſolutions were the ſtronger againſt them alſo, becauſe there were many amongſt the Enemies that were notorious Papiſts, ſome Jeſuits, Popiſh Prieſts, and Fryers, and divers of their Officers ſuppoſed to to be ſuch; one Father <hi>Morgan</hi> a Jeſuit they had taken be<g ref="char:EOLhyphen"/>fore, who was ſent over to (and is now in) Briſtoll a Priſoner, a notorious Rogue, who vapoured much at his hearing of the Enemies gathering and ſtrengthening themſelves about Car<g ref="char:EOLhyphen"/>diffe for the King; now it ſo pleaſed God that the waters roſe very high for the tranſporting of our men, and they roſe very much at Oaſt the paſſage, which was as ill for the Enemy to hinder their flight from us.</p>
+            <p>But in the meane time Captaine <hi>Bowen</hi> and other Officers of Major Generall <hi>Skipons</hi> men, who had formerly been ſurpri<g ref="char:EOLhyphen"/>zed
+<pb n="6" facs="tcp:113456:4"/> by the Ragland men, in their Quarters at <hi>Carlion,</hi> 200. Horſe and 80. Foote falling upon them; about 100. of his men were moſt of them taken, and ſo cruell was the Enemy at that time, that they threw ſome of them into the water and drowned them. Captaine <hi>Bowen</hi> had been with Sir <hi>Charles So<g ref="char:EOLhyphen"/>merſet,</hi> the Governour of Ragland, about their exchange, which they have reaſon so deſire as ſpeedily as they can, by reaſon of the hard uſuage they finde, and they procured that ſome ſhould go upon their peroll <hi>viz.</hi> Captaine <hi>Bowen,</hi> and a Lieutenant; and Sir <hi>Charles Somerſet</hi> ſigned their Paſſes, <hi>Charles Somerſet, Governour of Ragland</hi> who are to procure one Maſter <hi>Harbert,</hi> and Captaine <hi>Keitleby,</hi> two notable ſticklers for the King, to be exchanged for them, or to return back againe Pri<g ref="char:EOLhyphen"/>ſoners to him; and they are gone to Major Generall <hi>Skippon</hi> to Briſtoll, to procure the exchange accordingly. But all this while the deſigne went on for the relief of our friends in Car<g ref="char:EOLhyphen"/>diffe Caſtle, and the diſſipating of the Forces in thoſe parts, which tooke good effect. So ſoone as the Enemy had intelli<g ref="char:EOLhyphen"/>gence of the approaching of Major Generall <hi>Laughhorne,</hi> who marched with about 250. of his owne Horſe and Foote, and ſome others of the Countrey, that roſe and joyned with him: The Enemy drew off from before Cardiffe Caſtle, firſt ſum<g ref="char:EOLhyphen"/>moning it, to which they had a deniall, they drew into a great Field to fight us, we marched up to them, and fell upon them with ſuch gallantry, that we routed them, and made them flie ſeverall waies, <hi>Carne</hi> himſelfe ſtayed not to keepe them together, but like a Vagabond ranne up and downe bemoaning himſelfe, and glad he was he had a good and a nimble Horſe, not to charge, but flye with. Major Generall <hi>Laughhorne</hi> hath given ſo great a blow to Sir <hi>Charles Kemiſh,</hi> that of his Ragland Forces has killed and taken ſo many, that of above three thouſand, there are not above ſevenſcore of them left upon Rally, nor thoſe likely to get to Ragland; for Colonell <hi>Morgan</hi> and Sir <hi>Trever Williams</hi> came in both very ſeaſonably, and are all purſuing. Colo<g ref="char:EOLhyphen"/>nell <hi>Morgan</hi> is got between Sir <hi>Charles Kemiſh</hi> and Ragland, It was a very bloody Fight, two thouſand killed and ta<g ref="char:EOLhyphen"/>ken;
+<pb n="7" facs="tcp:113456:4"/> A great number of Armes we have taken, and reſcu<g ref="char:EOLhyphen"/>ed many Cattle which they had plundred from the Coun<g ref="char:EOLhyphen"/>trie people, and much of their Ammunition and Plunder; it being a very great Victory; And Major Generall <hi>Laugh<g ref="char:EOLhyphen"/>horne,</hi> Colonell <hi>Morgan,</hi> and Sir <hi>Trever Williams,</hi> are ſtill in purſuit of the Enemy; And this action it is hoped will prove the preſervation of South-Wales.</p>
+         </div>
+         <div type="letter">
+            <head>The Copie of a Letter from one of the Chiefe Officers in Briſtoll<g ref="char:punc">▪</g>
+            </head>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Now came from the Governour, (Major Generall <hi>Skip<g ref="char:EOLhyphen"/>pon,</hi>) whilſt I was with him, in came a poore man) with ſixe Gentlemen of Glamorganſhire that fled hither,) with a Letter, which intimates thus much, that Cardiffe is re<g ref="char:EOLhyphen"/>taken, for it was taken by the Enemy and Clubmen (ſince my laſt,) and many ſtrange paſſages are in the Letter. The Governour, Colonell <hi>Pitchard,</hi> and Colonell <hi>Leyton,</hi> who hath been ſomtimes of the Plymouth Regiment, betooke themſelves to the Caſtle with their Forces, and kept that: The Vice-Admirall in Munday laſt made a ſight of the Ca<g ref="char:EOLhyphen"/>ſtle, and ſhot off ſixe Peeces, to let them know in that time they ſhould have reliefe, which was performed by Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Laughhorne,</hi> Sir <hi>Trever Williams,</hi> and Colonell <hi>Morgan:</hi> The Meſſenger ſaith, that they had a very bloody ſight, but aſſures the Governour that we routed Sir <hi>Charles
+<pb n="8" facs="tcp:113456:5"/> Kemiſh</hi> of Ragland, and all his, and that there are not <hi>140.</hi> of them left upon Ralley, nor thoſe likely to get to Ragland, for Colonell <hi>Morgan</hi> is fallen between them and home. We expect the particulars every houre, but the waters are very high here, and at Oaſt (the paſſage.) Since this Meſſen<g ref="char:EOLhyphen"/>ger, whilſt I was with the Governour, in came Captaine <hi>Bowen,</hi> one of the Captaines of the Governours Regiment, belonging to the New Modell, taken three weeks ſince, (and a Lievtenant) by Ragland, they demand Captaine <hi>Kettleby</hi> for the one, and one Maſter <hi>Harbert</hi> for the other. Here is one <hi>Morgain,</hi> a Jeſuit, priſoner alſo, who was ſent from Car<g ref="char:EOLhyphen"/>diffe before the revolt. I hope the Welch that have acted in it, will pay for their treachery.</p>
+            <closer>
+               <salute>Sir</salute>
+               <signed>I am Your affectionately to ſerve you.</signed>
+               <dateline>From my Quarters in Bri<g ref="char:EOLhyphen"/>ſtoll <date>this Friday night, Febr. 19. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
